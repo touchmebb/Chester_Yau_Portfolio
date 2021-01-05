@@ -16,4 +16,4 @@
 * Forecasted the short-term and long-term membership subscriptions.
 * Stated the limitations of time-series models and how to deal with it.
 
-<img src="https://raw.githubusercontent.vcom/touchmebb/Chester_Yau_Portfolio/main/images/project%202.png" width="500" height="250">
+<img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%202.png" width="500" height="250">
