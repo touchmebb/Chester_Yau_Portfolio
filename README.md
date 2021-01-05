@@ -6,7 +6,7 @@
 * State why accuracy tends to be relatively low in stock market prediction models.
 * Found a trading strategy according to the accuracy of the model best fitted.
 
-![image](https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%201.png)
+<img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%201.png" width="500" height="250">
 
 # [Project 2: E-sports membership subscription](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Time-Series%20analysis%20Project%20-%20E-sports%20membership%20subscription.ipynb)
 * Check the dataset to see if it is clean
@@ -16,4 +16,4 @@
 * Forecasted the short-term and long-term membership subscriptions.
 * Stated the limitations of time-series models and how to deal with it.
 
-![image](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/images/project%202.png)
+<img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%202.png" width="500" height="250">
