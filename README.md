@@ -8,6 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%201.png" width="500" height="250">
 
+
 # [Data Science Project 2: E-sports membership subscription](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Time-Series%20analysis%20Project%20-%20E-sports%20membership%20subscription.ipynb)
 * Check the dataset to see if it is clean
 * Apply different techniques to minimize variance fluctuation.
