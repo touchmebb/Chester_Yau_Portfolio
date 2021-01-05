@@ -1,5 +1,4 @@
-# Chester_Yau_Portfolio
-Chester Yau's portfolio - Data science and Mathematics
+# This is my portfolio, where I share my data science projects and my interest in Mathematics :)
 
 # [Project 1: Stock market movement prediction](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Logistic%20Regression%20-%20Stock%20Market%20direction%20predictions.ipynb)
 * Given a dataset which contains information about the S&P stock index from 2001 to 2005, examine the data.
