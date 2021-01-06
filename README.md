@@ -27,7 +27,7 @@
 
 
 
-# ===Theoretical Math and Stat section (no data used)===
+# ==Theoretical Math and Stat section (no data used)==
 
 # [Applied Bayesian project: Applying MCMC methods to asset price models](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Applying%20MCMC%20to%20asset%20pricing%20models.ipynb)
 * MCMC is a method to sample a distribution when there is no known distribution
