@@ -19,6 +19,13 @@
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%202.png" width="500" height="250">
 
+# Data Science Project 3: Heart disease diagnosis
+* Predict whether an individual has heart disease
+* Support vector Machines used
+* To be updated
+
+# Theoretical Math and Stat section (no data)
+
 # [Applied Bayesian project: Applying MCMC methods to asset price models](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Applying%20MCMC%20to%20asset%20pricing%20models.ipynb)
 * MCMC is a method to sample a distribution when there is no known distribution
 * This paper aims provide a method, namely the famous Independence Metropolis-Hasting algoriothm to obtain a dependent sample of the state space model.
