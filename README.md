@@ -19,12 +19,13 @@
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%202.png" width="500" height="250">
 
-# Data Science Project 3: Heart disease diagnosis
+# [Data Science Project 3: Heart disease diagnosis](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Heart%20disease%20identifying%20peoject.ipynb)
 * Predict whether an individual has heart disease
+* Data cleaning from raw files
 * Support vector Machines used
-* To be updated
+* Fit SVM models with different tuning variables and somewhat corelated variables
 
-
+<img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%203.png" width="500" height="250">
 
 
 # ==Theoretical Math and Stat section (no data used)==
