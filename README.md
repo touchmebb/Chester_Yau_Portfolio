@@ -27,6 +27,9 @@
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%203.png" width="500" height="250">
 
+# Data Science Project 4:
+* Use neural networks
+* To be updated
 
 # ==Theoretical Math and Stat section (no data used)==
 
