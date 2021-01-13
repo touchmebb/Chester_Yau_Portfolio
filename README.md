@@ -1,4 +1,4 @@
-# This is my portfolio, where I share my data science projects and my interest in Mathematics :)
+# This is my portfolio, where I share my data science projects and my interest in Mathematics :) I am a mathematics student with graduate level mathematics reseach experience. My recently research direction is in C*-algebras and topological data analysis. The latter helps me in understand data structure in a metric that is rarely used in data science.
 
 # [Data Science Project 1: Stock market movement prediction](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Logistic%20Regression%20-%20Stock%20Market%20direction%20predictions.ipynb)
 * Given a dataset which contains information about the S&P stock index from 2001 to 2005, examine the data.
