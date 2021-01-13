@@ -27,9 +27,16 @@
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%203.png" width="500" height="250">
 
-# Data Science Project 4:
-* I did this project because I myself suffered from ruptured ACL and torn meniscus3 years ago and only the latter was diagnosised by all the physiotherapists I saw over this 3 years. Both got diagnosised right away with a MRI scan. I want to model MRI on diagnosising and classifying knee injuries.
-* Use neural networks
+# [Data Science Project 4: Breast Cancer diagnosis](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Wisconsin%20Breast%20Cancer%20Diagnostic.ipynb)
+* This project aims to train a model to correctly diagnost malignant tumor.
+* Used neural networks
+* Data cleaning
+* 97% accuracy and 93$ true positive rate.
+
+<img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%20%204.png" width="500" height="250">
+
+# Data Science Project 5:
+* The motivation of this project is due to myself suffering from ruptured ACL and torn meniscus3 years ago and only the latter was diagnosised by all the physiotherapists I saw over this 3 years. Both got diagnosised right away with a MRI scan. I want to model MRI on diagnosising and classifying knee injuries.
 * To be updated
 
 # ==Theoretical Math and Stat section (no data used)==
