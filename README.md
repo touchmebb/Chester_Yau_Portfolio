@@ -31,7 +31,7 @@
 * This project aims to train a model to correctly diagnost malignant tumor.
 * Used neural networks
 * Data cleaning
-* 97% accuracy and 93$ true positive rate.
+* 97% accuracy and 93% true positive rate.
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%20%204.png" width="500" height="250">
 
