@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%203.png" width="500" height="250">
 
 # [Data Science Project 4: Breast Cancer diagnosis](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Wisconsin%20Breast%20Cancer%20Diagnostic.ipynb)
-* This project aims to train a model to correctly diagnost malignant tumor.
+* This project aims to train a model to correctly diagnose malignant tumor.
 * Used neural networks
 * Data cleaning
 * 97% accuracy and 93% true positive rate.
