@@ -1,4 +1,4 @@
-<h1>Nice to meet me, my name is Chester</h1>
+<h1>Nice to meet you, my name is Chester</h1>
 
 This is my portfolio, where I share my data science projects and my interest in Mathematics :) I am a mathematics student with graduate level mathematics reseach experience. 
 
