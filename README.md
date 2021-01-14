@@ -1,3 +1,5 @@
+<h1>Nice to meet me, my name is Chester</h1>
+
 This is my portfolio, where I share my data science projects and my interest in Mathematics :) I am a mathematics student with graduate level mathematics reseach experience. 
 
 My recently research direction is in C*-algebras and topological data analysis. The latter helps me in understand data structure in a metric that is rarely used in data science.
