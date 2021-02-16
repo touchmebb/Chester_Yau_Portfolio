@@ -45,7 +45,7 @@ My recently research direction is in C*-algebras and topological data analysis. 
 * This project aims to model the number of international students and give forecasts on upcoming students commencing in 2021
 * Used time-series models
 * Data cleaning
-* Predicted number of students to fall by $30%$
+* Predicted number of students to fall by 30%.
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/interional%20students%20project.png" height="250">
 
