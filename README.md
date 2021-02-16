@@ -41,7 +41,13 @@ My recently research direction is in C*-algebras and topological data analysis. 
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%20%204.png" width="500" height="250">
 
-# Data Science Project 5:
+# [Data Science Project 5](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Australia%20students%20forecast%20.ipynb)
+* This project aims to model the number of international students and give forecasts on upcoming students commencing in 2021
+* Used time-series models
+* Data cleaning
+* Predicted number of students to fall by $30%$
+
+# Data Science Project 6:
 * The motivation of this project is due to myself suffering from ruptured ACL and torn meniscus3 years ago and only the latter was diagnosised by all the physiotherapists I saw over this 3 years. Both got diagnosised right away with a MRI scan. I want to model MRI on diagnosising and classifying knee injuries.
 * To be updated
 
