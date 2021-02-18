@@ -41,7 +41,7 @@ My recently research direction is in C*-algebras and topological data analysis. 
 
 <img src="https://raw.githubusercontent.com/touchmebb/Chester_Yau_Portfolio/main/images/project%20%204.png" width="500" height="250">
 
-# [Data Science Project 5: Australia international students forecast](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Australia%20students%20forecast%20.ipynb)
+# [Data Science Project 5: Australia international students forecast](https://github.com/touchmebb/Chester_Yau_Portfolio/blob/main/Australia%20students%20forecast.ipynb)
 * This project aims to model the number of international students and give forecasts on upcoming students commencing in 2021
 * Used time-series models
 * Data cleaning
